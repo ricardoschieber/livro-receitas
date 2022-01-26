@@ -3,3 +3,5 @@
 Estas são as receitas já publicadas:
 
  - Strogonoff de frango
+ - Pavê  
+ - 
