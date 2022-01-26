@@ -1,4 +1,4 @@
-# Livro de receitas :man-cook:
+# Livro de receitas :man_cook:
 
 Estas são as receitas já publicadas:
 
